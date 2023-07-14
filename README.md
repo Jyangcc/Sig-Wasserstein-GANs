@@ -11,7 +11,7 @@ Paper Link:
 To setup the conda environment:
 
 ```
-conda env create -f requirements.yml
+conda env create -f environment.yml
 ```
 
 
